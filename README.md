@@ -11,3 +11,6 @@ After "randomise!" click
 Starting page is set to 2 specific HEX colours that blend linearly left to right.
 After clicking "randomise!" the colours will linearly merge from one randomly picked RGB colour to another.
 It will also display the RGB or each colour so you can use them on your website if you like how it looks!
+
+## Improvements to be made
+After "randomise!" the "current CSS background" cells still displays the original two colours from the homepage - update this so they change to the 2 random colours of the randomly selected colours.
